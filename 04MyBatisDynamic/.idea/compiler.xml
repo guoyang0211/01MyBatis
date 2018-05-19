@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04MyBatisDynamic" />
+        <module name="_04MyBatisDynamic" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="04MyBatisDynamic" target="1.7" />
+      <module name="_04MyBatisDynamic" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
